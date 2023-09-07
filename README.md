@@ -2,7 +2,7 @@
 # 20-Python-Projects 😄
 ## About 📜
 
-🖤 Learning to code in python by doing and adapting projects.
+> 🖤 Learning to code in python by doing and adapting projects.
 
 ---
 *This is based on a posted video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects.
