@@ -25,7 +25,7 @@ print('C. Multiplication')
 print('D. Division')
 print('E. Exit')
 
-choice = input('Enter your choice:')
+choice = input('Enter your choice from A to E:')
 
 # use a if else statments to continue the program until the user wants to exit
 if choice == 'a' or choice =='A':
