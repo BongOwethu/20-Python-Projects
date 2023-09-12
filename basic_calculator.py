@@ -25,7 +25,11 @@ print('C. Multiplication')
 print('D. Division')
 print('E. Exit')
 
+<<<<<<< HEAD
 choice = input('Enter your choice from A to E:')
+=======
+choice = input('Enter your choice:')
+>>>>>>> refs/remotes/origin/main
 
 # use a if else statments to continue the program until the user wants to exit
 if choice == 'a' or choice =='A':
