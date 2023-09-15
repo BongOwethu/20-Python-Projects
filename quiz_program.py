@@ -1,6 +1,6 @@
 # a dictionary that store s questions and answers
 # have a variable that tracks the score
-# lopp through the dictionary using the key value pairs
+# loop through the dictionary using the key value pairs
 # display each question to the user and allow them to answer
 # show the finam grade when quiz is completed
 
